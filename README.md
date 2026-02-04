@@ -33,7 +33,7 @@ Aqui estão organizados:
 ```text
 curso_de_python/
 ├── introdução/
-├── ../
+├── recebendo_dados/
 ├── ../
 ├── ../
 ├── ../
