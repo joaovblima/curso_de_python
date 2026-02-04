@@ -30,6 +30,7 @@ Aqui estão organizados:
 - Jupyter Notebook  
 
 ## 📂 Estrutura do projeto
+```text
 curso_de_python/
 ├── introdução/
 ├── ../
@@ -37,6 +38,7 @@ curso_de_python/
 ├── ../
 ├── ../
 └── README.md
+```
 
 ## Clone o repositório:
 
@@ -44,7 +46,7 @@ curso_de_python/
 git clone https://github.com/seu-usuario/curso_de_python.git
 cd curso_de_python
 python arquivo.py
-
+```
 ## 📌 Fonte de estudo
 
 Curso de Python — Teo Me Why
