@@ -1,4 +1,3 @@
-# %%
 print("BEM-VINDO A VENDINHA")
 print("ÁGUA MINERAL NATURAL R$ 1,50 - 1")
 print("ÁGUA MINERAL COM GÁS R$ 2,50 - 2")
