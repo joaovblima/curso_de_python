@@ -14,3 +14,4 @@ for i in lista:
 
 print("seu numero", numero, "aparece", quantidade, "vezes na lista")
 
+
