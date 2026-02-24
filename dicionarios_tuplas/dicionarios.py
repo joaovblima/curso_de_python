@@ -24,4 +24,4 @@ dados_teo = {
 #print(dados_teo.values())
 
 for k, v in dados_teo.items():
-    print(k, v)
+    print(k,"->", v)
