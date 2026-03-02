@@ -1,0 +1,35 @@
+[
+    {
+        "cep": "57800-000",
+        "logradouro": "",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "",
+        "localidade": "União dos Palmares",
+        "uf": "AL",
+        "estado": "Alagoas",
+        "regiao": "Nordeste",
+        "ibge": "2709301",
+        "gia": "",
+        "ddd": "82",
+        "siafi": "2885"
+    },
+    {
+        "erro": "true"
+    },
+    {
+        "cep": "57890-000",
+        "logradouro": "",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "",
+        "localidade": "Ibateguara",
+        "uf": "AL",
+        "estado": "Alagoas",
+        "regiao": "Nordeste",
+        "ibge": "2703007",
+        "gia": "",
+        "ddd": "82",
+        "siafi": "2759"
+    }
+]
