@@ -56,10 +56,25 @@ def mudar_status(lista_de_tarefas, id_tarefa):
             tarefa["status"] = "concluída"
             return
     print("Tarefa não encontrada.")
+
+def mudar_status_v02(lista_de_tarefas, lista_de_tarefas_concluidas, id_tarefa):
+    for tarefa in lista_de_tarefas:
+        if tarefa["id"] == id_tarefa:
+            tarefa["status"] = "concluída"
+            lista_de_tarefas_concluidas.append(tarefa)
+            return
+    print("Tarefa não encontrada.")
+
+def deletar_tarefa(lista_de_tarefas, id_tarefa):
+    for tarefa in lista_de_tarefas:
+        if tarefa["id"] == id_tarefa:
+            lista_de_tarefas.remove(tarefa)
+            print("Tarefa deletada. ")
+            return
+    print("Tarefa não encontrada")
 tarefas = []
+tarefas_concluida = []
 while True:
-
-
     opcao = valida_entrada() 
 
     if opcao == 1:
